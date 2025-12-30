@@ -1,8 +1,6 @@
 # OASIS-INFOBYTE-Internship
 
-<p align="center">
-  <img src="https://github.com/Shushant-Kharate/OASIS-INFOBYTE-Internship/blob/main/Oasis%20Infobyte.jpg" alt="OASIS INFOBYTE Logo" width="300"/>
-</p>
+<img src="https://github.com/Shushant-Kharate/OASIS-INFOBYTE-Internship/blob/main/Oasis%20Infobyte.jpg" alt="OASIS INFOBYTE Logo" width="300"/>
 
 This repository contains the work completed during my Data Analytics &amp; Machine Learning Internship at OASIS INFOBYTE. The internship focused on solving real-world analytical and machine learning problems using Python, covering the complete workflow from data preprocessing and exploratory analysis to model building, evaluation, and prediction.
 
