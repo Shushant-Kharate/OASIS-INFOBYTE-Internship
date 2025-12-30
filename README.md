@@ -89,6 +89,18 @@ Each task is implemented using **Python and Jupyter Notebook** and demonstrates 
 
 ---
 
+## 👤 About the Author
+
+Hi, I'm **Shushant Kharate**, a 2nd-year B.Tech student in Information Technology at FCRIT Vashi, Navi Mumbai. I'm passionate about SQL, data analysis, and developing real-world database solutions through practical projects.
+
+-  **Email**: [skharet215@gmail.com](mailto:skharet215@gmail.com)  
+-  **LinkedIn**: [linkedin.com/in/shushant-kharate-2b490a376](https://www.linkedin.com/in/shushant-kharate-2b490a376)  
+-  **Phone**: +91 7208494564
+
+I'm always open to feedback, collaborations, or simply discussing cool tech ideas. Feel free to connect!
+
+---
+
 ## 🙏 Thank You Note
 
 I would like to sincerely thank **OASIS INFOBYTE** for providing this valuable internship opportunity.  
